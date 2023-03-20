@@ -3,6 +3,6 @@ This is the file where u have to add the list of commands that u have used via g
 
 ....................Start Adding.........................
 1. git init = <desc>
-2.
-3.
-4. 
+2. git commit
+3. git status
+4. git push
