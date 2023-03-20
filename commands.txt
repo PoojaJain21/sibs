@@ -1,0 +1,8 @@
+This is the file where u have to add the list of commands that u have used via git bash to add files or make changes to the repo.
+
+
+....................Start Adding.........................
+1. git init = <desc>
+2. git push -- origin master
+3. git status
+4. git commit -m "Pooja Jain"
